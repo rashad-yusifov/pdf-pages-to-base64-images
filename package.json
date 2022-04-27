@@ -1,0 +1,27 @@
+{
+  "name": "pdf-pages-to-base64-image",
+  "version": "1.0.0",
+  "description": "This package use for parse PDF pages (content) to base64 (image)",
+  "main": "pdfPagesToBase64Image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pdf",
+    "Pdf pages",
+    "Pdf to base64",
+    "pdf content to base64",
+    "Pdf to images",
+    "get pdf of images",
+    "Open source",
+    "JS",
+    "JAVASCRIPT PDF TO BASE64 PAGES",
+    "ES5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rashad-Yusifov/pdf-pages-to-base64-image.git"
+  },
+  "author": "Rashad Yusifov",
+  "license": "ISC"
+}
